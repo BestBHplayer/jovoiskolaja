@@ -23,3 +23,5 @@ body {
     color:yellow ;
     background-color: orange;
 }
+h2 {text-decoration: double;
+text-transform: capitalize;}
